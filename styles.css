@@ -1,1 +1,23 @@
 /* Write your CSS here! */
+body{
+    
+    margin: 8px;
+}
+
+article{
+   padding-top: 50px 30px 50px 80px;
+}
+.city{
+    color:pink;
+}
+
+
+
+#mainHeading {
+    color:red;
+}
+#testP{
+    color: green;
+
+}
+
